@@ -1,4 +1,0 @@
-* [31ma3d1cc1[m -[33m (HEAD -> master, origin/master, origin/HEAD)[m rm commit 2 [32m(2017-10-08 09:43:24 -0400) [1;34m<fatt>[m
-* [31md09e2a3[m -[33m[m commit [32m(2017-10-08 09:37:47 -0400) [1;34m<fatt>[m
-* [31mda75f16[m -[33m[m commit 1 [32m(2017-10-07 11:41:42 -0400) [1;34m<fatt>[m
-* [31m8db4744[m -[33m[m Initial commit [32m(2017-10-07 09:44:59 -0400) [1;34m<getbackupandsync>[m
